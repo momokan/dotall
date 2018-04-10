@@ -1,0 +1,17 @@
+{
+  "name": "dotall",
+  "version": "1.0.0",
+  "description": "dot pictures from text files.",
+  "main": "dotall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browserify": "^16.1.1"
+  }
+}
